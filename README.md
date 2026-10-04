@@ -1,4 +1,10 @@
-## Hi there 👋
+## hey, i'm emily! 👋
+
+- 🎓 computer Eengineering @ [UWaterloo](https://uwaterloo.ca)
+- 📈 software engineering Intern @ [BMO Capital Markets](https://www.bmocm.com)
+- 🌱 currently exploring data infrastructure, distributed systems, and performance engineering in trading and financial systems
+
+[LinkedIn](https://www.linkedin.com/in/emilyyu01) · [Email](mailto:emily.yu1@uwaterloo.ca) · [Website](https://www.emilyyu.app)
 
 <!--
 **emilyyu07/emilyyu07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
