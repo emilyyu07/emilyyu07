@@ -1,4 +1,4 @@
-### hey, i'm emily! 👋
+### hi, i'm emily! 👋
 
 - 🎓 computer engineering @ [UWaterloo](https://uwaterloo.ca)
 - 📈 software engineering intern @ [BMO Capital Markets](https://www.bmocm.com)
