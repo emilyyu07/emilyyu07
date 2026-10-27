@@ -2,7 +2,7 @@
 
 - 🎓 computer engineering @ [UWaterloo](https://uwaterloo.ca)
 - 📈 software engineering intern @ [BMO Capital Markets](https://www.bmocm.com)
-- 🌱 currently exploring data infrastructure, distributed systems, and performance engineering in trading and financial systems
+- 🌱 currently exploring data infrastructure, distributed systems, and performance engineering in financial markets
 
 [LinkedIn](https://www.linkedin.com/in/emilyyu01) · [Email](mailto:emily.yu1@uwaterloo.ca) · [Website](https://www.emilyyu.app)
 
